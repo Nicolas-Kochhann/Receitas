@@ -113,3 +113,10 @@ a:hover{
     color: white;
     border-radius: 4px;
 }
+
+.home-link{
+    width: 95%;
+    margin: 2% auto 0 auto;
+    padding-bottom: 2%;
+    padding-top: 1%;
+}
